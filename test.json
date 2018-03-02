@@ -1,0 +1,38 @@
+[
+	{
+		"firstName" : "Ajit",
+		"lastName" : "Thakur",
+		"age" : 21,
+		"gender" : "Male",
+		"interest" : ["programming", "hacking", "shayari"],
+		"greeting" : ["YO!", "Hello"]
+	},
+
+	{
+		"firstName" : "Akshay",
+		"lastName" : "Kataria",
+		"age" : 19,
+		"gender" : "Male",
+		"interest" : ["cricket", "playing", "studying"],
+		"greeting" : ["YO!", "Hello"]
+	},
+
+	{
+		"firstName" : "Amitabh",
+		"lastName" : "Ananad",
+		"age" : 20,
+		"gender" : "Male",
+		"interest" : ["Making Stuff"],
+		"greeting" : ["YO!", "Hello"]
+	},
+
+	{
+		"firstName" : "Pooja",
+		"lastName" : "Kumari",
+		"age" : 19,
+		"gender" : "Female",
+		"interest" : ["flirting, time pass, palying, mind games"],
+		"greeting" : ["YO!", "Hello"]
+	}
+
+]
